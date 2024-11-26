@@ -3,7 +3,6 @@
 <head>
     <title>Prueba de PHP</title>
 </head>
-#Hola?
 
 <body>
     <?php echo '<p>Hola mundo</p>'; ?>
